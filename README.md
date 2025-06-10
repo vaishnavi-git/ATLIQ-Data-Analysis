@@ -77,15 +77,6 @@ The Power BI file (`.pbix`) contains:
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository.
-2. Open the `.sql` files with a SQL editor (like MySQL Workbench or DBeaver).
-3. Execute the queries on your `sales` database.
-4. Open `Sales Insights data analysis-AtliQ.pbix` using **Power BI Desktop**.
-
----
-
 ## 🛠️ Tools Used
 
 - **SQL** – Data extraction and transformation
